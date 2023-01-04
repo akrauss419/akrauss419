@@ -17,6 +17,18 @@
 
 <hr />
 
+<h3 align="left">Check out some of my work:</h3>
+
+- Check out my MERN stack app <a href="https://donut-depot.herokuapp.com/">Donut Depot</a>
+
+- The contributions I made to <a href="https://yardbarker.herokuapp.com/">Yard Barker</a>, a group project using the Django framework
+
+- My Express project <a href="https://match-pointe.herokuapp.com/">Match Pointe</a>
+
+- Play <a href="https://akrauss419.github.io/Project1/">Bruce's Nautical Minesweeper</a> developed using vanilla JS
+
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akrauss_419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akrauss_419" height="30" width="40" /></a>
